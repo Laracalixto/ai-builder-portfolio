@@ -45,4 +45,13 @@ Make internal knowledge easier to access, helping team members retrieve relevant
 - AI agent configuration.
 - Prompt engineering.
 - Knowledge organization.
-- Process
+- Process improvement.
+- Information retrieval.
+- Response evaluation.
+- Practical application of generative AI.
+
+## Project Status
+
+This project was originally developed and used in CUB's corporate environment. I no longer have access to the original agent or its internal materials.
+
+This documentation describes my experience and contribution. No confidential company information, internal documents, recordings, or customer data are included.
