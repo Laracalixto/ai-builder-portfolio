@@ -4,11 +4,11 @@
 
 Welcome to my AI Builder Portfolio!
 
-I am a Business Management student with professional experience in companies such as Bosch, Itaú and CUB.
+I am a Business Management student with professional experience at companies such as Bosch, Itaú and CUB.
 
-My focus is on using Artificial Intelligence to solve real business problems, improve processes and build practical solutions.
+My focus is on applying Artificial Intelligence to real business challenges, improving processes and designing practical solutions that connect technology with business needs.
 
-I enjoy exploring AI tools, designing intelligent agents and connecting technology with business needs.
+Through my professional experience, I have explored AI tools to structure workflows, configure agents, develop prompts and make information more accessible.
 
 ---
 
@@ -28,41 +28,66 @@ I enjoy exploring AI tools, designing intelligent agents and connecting technolo
 
 **Tools:** Claude and Manus
 
-**Objective:** Improve company research, lead qualification and personalized sales prospecting.
+**Objective:** Support company research, lead qualification and personalized sales prospecting through AI-powered commercial intelligence.
 
 **Key capabilities:**
-- Company research and CNPJ identification.
-- Identification of company executives and decision-makers.
-- Company history and business information research.
+
+- Company research, including CNPJ and business history.
+- Identification of executives and decision-makers.
 - ICP (Ideal Customer Profile) qualification.
 - Identification of potential business challenges.
-- ERP usage research, when publicly available.
-- LinkedIn profile analysis to support personalized outreach strategies.
+- ERP usage research, when information was available.
+- Analysis of prospect LinkedIn profiles provided as input.
+- Personalized outreach suggestions.
 
-**My contribution:** Agent design, prompt engineering, workflow definition and practical application in commercial prospecting.
+**My contribution:** Business problem identification, agent configuration, prompt engineering, workflow design and practical application in commercial prospecting.
 
-*The company name was provided as input from the CRM; the agent supported the subsequent research and analysis.*
+*The company name was provided as input from the CRM. No direct CRM integration was implemented.*
 
-### 02. AI Customer Support & Knowledge Agent
+[View project documentation](projetos/agente-prospeccao/README.md)
 
-**Business Context:** Customer support and internal knowledge | CUB
+### 02. AI Knowledge Assistant — Internal Support
+
+**Business Context:** Internal knowledge management | CUB
 
 **Tools:** Claude and Manus
 
-**Objective:** Make internal business knowledge more accessible and support customer service activities.
-
-**Knowledge sources:**
-- Recorded product demonstration meetings.
-- Internal training recordings.
-- Commercial and product-related materials.
+**Objective:** Make product and process knowledge more accessible to internal teams through recorded product demonstrations and training materials.
 
 **Key capabilities:**
-- Consultation of internal knowledge sources.
-- Answers to questions about products and processes.
-- Support for customer service activities.
-- Access to information shared during training and demonstrations.
 
-**My contribution:** Knowledge organization, agent configuration, prompt engineering and application of generative AI to customer support.
+- Consultation of recorded product demonstrations.
+- Access to internal training knowledge.
+- Answers to questions about products and processes.
+- Retrieval of relevant information without manually reviewing entire recordings.
+
+**My contribution:** Knowledge organization, agent configuration, prompt engineering, response testing and application of generative AI to internal processes.
+
+*This agent was developed for internal use, not as a customer-facing chatbot.*
+
+[View project documentation](projetos/agente-atendimento/README.md)
+
+---
+
+## 🧪 Independent Demonstration
+
+### AI Prospecting Assistant — Fictional Demo
+
+A conceptual demonstration of an AI-assisted B2B prospecting workflow using a fictional real estate company.
+
+**Focus areas:**
+
+- Company research and business context.
+- ICP analysis.
+- Potential business opportunity mapping.
+- Personalized outreach suggestions.
+- Human review of AI-generated insights.
+
+**Tools:** Manus and Claude.
+
+This independent demonstration uses fictional data and does not include CUB's internal information or systems.
+
+[View demonstration](demonstracoes/prospeccao-ficticia/README.md)
 
 ---
 
@@ -70,17 +95,16 @@ I enjoy exploring AI tools, designing intelligent agents and connecting technolo
 
 - Business-oriented problem solving.
 - Practical AI experimentation.
-- Prompt engineering.
-- AI agent development.
-- Process improvement.
+- Prompt engineering and AI agent configuration.
+- Process improvement and information organization.
 - Customer experience and commercial operations.
-- Creativity and continuous learning.
+- Creativity, adaptability and continuous learning.
 
 ---
 
 ## 🎓 Education
 
-**Business Management (Commercial Management)**
+**Technology Degree in Commercial Management**
 
 Expected graduation: December 2027.
 
