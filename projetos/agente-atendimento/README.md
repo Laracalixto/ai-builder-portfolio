@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-An AI agent designed to help internal teams access product and process knowledge more easily by consulting recorded product demonstrations and internal training materials.
+An AI-powered internal knowledge assistant designed to help team members access product and process information by consulting recorded product demonstrations and internal training materials.
+
+Unlike a customer-facing chatbot, this agent was developed for internal use, supporting employees in finding information and answering work-related questions.
 
 ## Business Context
 
@@ -10,7 +12,7 @@ Developed during my experience at CUB, where product information and internal kn
 
 ## Objective
 
-Make internal knowledge easier to access, helping team members find information and answer questions without having to manually review entire recordings.
+Make internal knowledge easier to access, helping team members retrieve relevant information and answer questions without having to manually review entire recordings.
 
 ## Knowledge Sources
 
@@ -43,13 +45,4 @@ Make internal knowledge easier to access, helping team members find information 
 - AI agent configuration.
 - Prompt engineering.
 - Knowledge organization.
-- Process improvement.
-- Information retrieval.
-- Response evaluation.
-- Practical application of generative AI.
-
-## Project Status
-
-This project was originally developed and used in CUB's corporate environment. I no longer have access to the original agent or its internal materials.
-
-This documentation describes my experience and contribution. No confidential company information, internal documents, recordings, or customer data are included.
+- Process
